@@ -217,3 +217,17 @@ az group show --name rg-ansible-lab --query "properties.provisioningState" -o ts
 
 - GitHub: [@gregodprogrammer](https://github.com/gregodprogrammer)
 - LinkedIn: [linkedin.com/in/gregodi](https://linkedin.com/in/gregodi)
+
+---
+
+## DMI Micro-Internship
+
+This project was completed as part of the **DevOps Micro-Internship (DMI) Cohort-2** program.
+
+| Detail | Info |
+|---|---|
+| Program | DevOps Micro-Internship (DMI) Cohort-2 |
+| Assignment | Assignment 2 — Ad-Hoc Automation on Azure: 4 VMs, Inventory & Passwordless SSH |
+| Candidate | Greg Odi |
+| GitHub | [@gregodprogrammer](https://github.com/gregodprogrammer) |
+| LinkedIn | [linkedin.com/in/gregodi](https://linkedin.com/in/gregodi) |
